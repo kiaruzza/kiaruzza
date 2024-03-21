@@ -1,9 +1,8 @@
-### Hi there 👋
 
-<h3>Hi! I'm Chiara</h3>
+<h3>Hi! I'm Chiara 👋</h3>
 <ul>
   <li>🏳️‍🌈 	She/Her</li>
-  <li>👩‍💻  Senior Software Engineer @ [Aruba](https://www.aruba.it/) </li>
+  <li>👩‍💻  Senior Software Engineer @ <a href="https://www.aruba.it/">Aruba</a></li>
   <li>🌱  Sustainable Citizen</li>
   <li>🖖  Women Techmakers Ambassador</li>
 <ul>
