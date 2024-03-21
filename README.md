@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<h3>Hi! I'm Chiara</h3>
+<ul>
+  <li>🏳️‍🌈 	She/Her</li>
+  <li>👩‍💻  Senior Software Engineer @ [Aruba](https://www.aruba.it/) </li>
+  <li>🌱  Sustainable Citizen</li>
+  <li>🖖  Women Techmakers Ambassador</li>
+<ul>
+
 <!--
 **kiaruzza/kiaruzza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
