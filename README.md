@@ -23,9 +23,6 @@
 stats](https://github-readme-stats.vercel.app/api?username=kiaruzza&show_icons=true&theme=ambient_gradient&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤝 Communities & Collaborations
-<img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/sponsors/38496494_1059860710837757_3079472696325570560_o.png" height="80px" href="https://www.facebook.com/WTMItalia/" title="Women Techmakers Italia">
-
-## 🤝 Communities & Collaborations
 
 <p align="center">
     <a href="https://www.facebook.com/WTMItalia/">
