@@ -4,7 +4,7 @@
 - 👩‍💻 Senior Software Engineer @ <a href="https://www.aruba.it/" target="_blank">Aruba</a>
 - 👩🏻‍🎓 Computer Science Student @ <a href="https://www.uniroma1.it/" target="_blank">La Sapienza - Università di Roma</a>
 - 🌱 Sustainable Citizen
-- 🖖 Women Techmakers Ambassador
+- 🖖 Women Techmakers Ambassador | She Tech Local Ambassador
 
 
 ## 🧰 Technologies & Tools
