@@ -10,45 +10,46 @@
 
 ## 🧰 Technologies & Tools
 
-<div style="display: flex; flex-wrap: nowrap; gap: 10px; align-items: center; justify-content: center; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: center;">
 
   <!-- Linguaggi -->
-  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="40" height="40" loading="lazy" style="border:none; vertical-align:middle;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40" loading="lazy" style="border:none; vertical-align:middle;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/gopher.svg" alt="GoLang" width="40" height="40" loading="lazy" style="border:none; vertical-align:middle;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/bash.svg" alt="Bash" width="40" height="40" loading="lazy" style="border:none; vertical-align:middle;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" height="40" loading="lazy" style="border:none; vertical-align:middle;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" width="40" height="40" loading="lazy" style="border:none; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" loading="lazy" style="height:40px; width:auto; border:none; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" loading="lazy" style="height:40px; width:auto; border:none; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/gopher.svg" alt="GoLang" loading="lazy" style="height:40px; width:auto; border:none; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/bash.svg" alt="Bash" loading="lazy" style="height:40px; width:auto; border:none; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" loading="lazy" style="height:40px; width:auto; border:none; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" loading="lazy" style="height:40px; width:auto; border:none; vertical-align:middle;" />
 
   <!-- Framework e librerie -->
-  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring Boot" width="40" height="40" loading="lazy" style="border:none; vertical-align:middle;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" loading="lazy" style="border:none; vertical-align:middle;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vue.js" width="40" height="40" loading="lazy" style="border:none; vertical-align:middle;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" width="40" height="40" loading="lazy" style="border:none; vertical-align:middle;" />
-
-  <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter" width="40" height="40" loading="lazy" style="border:none; vertical-align:middle;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/xamarin.svg" alt="Xamarin" width="40" height="40" loading="lazy" style="border:none; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring Boot" loading="lazy" style="height:40px; width:auto; border:none; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" loading="lazy" style="height:40px; width:auto; border:none; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vue.js" loading="lazy" style="height:40px; width:auto; border:none; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" loading="lazy" style="height:40px; width:auto; border:none; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter" loading="lazy" style="height:40px; width:auto; border:none; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/xamarin.svg" alt="Xamarin" loading="lazy" style="height:40px; width:auto; border:none; vertical-align:middle;" />
 
   <!-- DevOps & CI/CD -->
-  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="40" height="40" loading="lazy" style="border:none; vertical-align:middle;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="Kubernetes" width="40" height="40" loading="lazy" style="border:none; vertical-align:middle;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" width="40" height="40" loading="lazy" style="border:none; vertical-align:middle;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/sentry-3.svg" alt="Sentry" width="40" height="40" loading="lazy" style="border:none; vertical-align:middle;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="Google Cloud Platform" width="40" height="40" loading="lazy" title="Google Cloud Platform" />
-  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="40" height="40" loading="lazy" style="border:none; vertical-align:middle;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/fabric.svg" alt="Fabric" width="40" height="40" loading="lazy" style="border:none; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" loading="lazy" style="height:40px; width:auto; border:none; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="Kubernetes" loading="lazy" style="height:40px; width:auto; border:none; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform" loading="lazy" style="height:40px; width:auto; border:none; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/sentry-3.svg" alt="Sentry" loading="lazy" style="height:40px; width:auto; border:none; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="Google Cloud Platform" loading="lazy" title="Google Cloud Platform" style="height:40px; width:auto; border:none; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" loading="lazy" style="height:40px; width:auto; border:none; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/fabric.svg" alt="Fabric" loading="lazy" style="height:40px; width:auto; border:none; vertical-align:middle;" />
 
   <!-- Database -->
-  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="40" height="40" loading="lazy" style="border:none; vertical-align:middle;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" alt="MySQL" width="40" height="40" loading="lazy" style="border:none; vertical-align:middle;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/mariadb.svg" alt="MariaDB" width="40" height="40" loading="lazy" style="border:none; vertical-align:middle;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="SQLite" width="40" height="40" loading="lazy" style="border:none; vertical-align:middle;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="mongoDB" width="40" height="40" loading="lazy" style="border:none; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" loading="lazy" style="height:40px; width:auto; border:none; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" alt="MySQL" loading="lazy" style="height:40px; width:auto; border:none; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/mariadb.svg" alt="MariaDB" loading="lazy" style="height:40px; width:auto; border:none; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="SQLite" loading="lazy" style="height:40px; width:auto; border:none; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="mongoDB" loading="lazy" style="height:40px; width:auto; border:none; vertical-align:middle;" />
 
   <!-- Altri -->
-  <img src="https://cdn.worldvectorlogo.com/logos/jetbrains-1.svg" alt="JetBrains IDE" width="40" height="40" loading="lazy" title="Favourite IDE" />
-  <img src="https://cdn.worldvectorlogo.com/logos/api.svg" alt="API REST" width="40" height="40" loading="lazy" style="border:none; vertical-align:middle;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" height="40" loading="lazy" style="border:none; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/jetbrains-1.svg" alt="JetBrains IDE" loading="lazy" title="Favourite IDE" style="height:40px; width:auto; border:none; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/api.svg" alt="API REST" loading="lazy" style="height:40px; width:auto; border:none; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" loading="lazy" style="height:40px; width:auto; border:none; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="Figma" loading="lazy" style="height:40px; width:auto; border:none; vertical-align:middle;" />
+
 </div>
 
 ---
@@ -56,7 +57,6 @@
 ### 📈 GitHub stats
 
 [![kiaruzza's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiaruzza&show_icons=true&theme=ambient_gradient&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## 🤝 Communities & Collaborations
 
@@ -88,4 +88,4 @@
   <a href="https://www.greensoftwareitalia.org/" target="_blank" rel="noopener noreferrer" aria-label="SisterMOOD.code" style="text-decoration: none; outline: none;">
     <img src="https://www.greensoftwareitalia.org/assets/images/LogoGSI.svg" alt="Green Software Italia" width="80" height="80" loading="lazy" title="Green Software Italia" />
   </a>
-</div>
+</div>_
